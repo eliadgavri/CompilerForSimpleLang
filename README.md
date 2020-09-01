@@ -14,13 +14,13 @@ The compiler was written in C programming language with an Visual Studio environ
 
 ## Screenshots:
 
-### Lexical
+## Lexical Analyzer
 ![Lexical](https://i.imgur.com/3SMqwSd.png)
 
-### Syntactic
+## Syntactic Analyzer
 ![Syntactic](https://i.imgur.com/58xi790.png)
 
-### Semantic
+## Semantic Analyzer
 ![Semantic](https://i.imgur.com/bzLPMlI.png)
 
 ![Semantic](https://i.imgur.com/BNbmfKA.png)
