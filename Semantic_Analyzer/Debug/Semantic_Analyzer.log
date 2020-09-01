@@ -1,0 +1,5 @@
+﻿  Parser.c
+C:\Users\Eliad\לימודים\קומפילציה\עבודות הגשה\Semantic_Analyzer\Project files\Semantic_Analyzer\Parser.c(548,8): warning C4101: 'temp_token': unreferenced local variable
+C:\Users\Eliad\לימודים\קומפילציה\עבודות הגשה\Semantic_Analyzer\Project files\Semantic_Analyzer\Parser.c(1989,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliad\לימודים\קומפילציה\עבודות הגשה\Semantic_Analyzer\Project files\Semantic_Analyzer\Parser.c(1996,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Semantic_Analyzer.vcxproj -> C:\Users\Eliad\לימודים\קומפילציה\עבודות הגשה\Semantic_Analyzer\Project files\Debug\Semantic_Analyzer.exe
