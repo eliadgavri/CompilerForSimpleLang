@@ -11,3 +11,9 @@ In order for us to use Recursive Descent method, a number of preparations for th
 *Nullable, First & Follow Table
 
 The compiler was written in C programming language with an Visual Studio environment.
+
+## Screenshots:
+![Lexical](https://i.imgur.com/3SMqwSd.png)
+![Syntactic](https://i.imgur.com/58xi790.png)
+![Semantic](https://i.imgur.com/bzLPMlI.png)
+![Semantic](https://i.imgur.com/BNbmfKA.png)
